@@ -17,6 +17,5 @@
 
 --- 
 
-I think a better way to learn is:
-Watch the video explanation first, go through it, and turn on the pop-ups for the code part, the discussion is sometimes very helpful. When you talk about concepts, you don't need to open the pop-up screen, because most of the pop-up screen at this time are chatting. Download the book's notebook, and then build a library to follow the book to hand-type again, some of the function nesting may not be too skillful, then dismantle the look and see, if you just look at the code on the notebook or copy and paste the code on the notebook to see the effect of the code to run once, I think that the learning is not solid enough. I think the best way to learn is to learn from the project.
+
 
